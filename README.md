@@ -46,6 +46,9 @@ This test case proves that item is pushed onto the top of this stack :
 
 ![alt text](https://github.com/vinayvadlamuri/assignment-images/blob/main/push_stack.png?raw=true)
 
+##
+##
+
 - ## ✨pop()
 
 This test case proves that item poping out on the top of this stack :
@@ -57,6 +60,8 @@ This test case proves that item poping out on the top of this stack :
 
 ![alt text](https://github.com/vinayvadlamuri/assignment-images/blob/main/pop_stack.png?raw=true)
 
+##
+##
 
 - ## ✨empty()
 
@@ -68,7 +73,8 @@ Tests if this stack is empty :
 ## 
 
 ![alt text](https://github.com/vinayvadlamuri/assignment-images/blob/main/empty_stack.png?raw=true)
-
+##
+##
 
 - ## ✨count()✨
 
